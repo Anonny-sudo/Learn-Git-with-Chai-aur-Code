@@ -1,1 +1,2 @@
 This is first file.
+Add another line of text to that file and commit it.
